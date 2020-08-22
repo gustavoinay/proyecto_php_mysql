@@ -4,7 +4,7 @@
 
     <section class="content-header">
       <h1>
-        Página de Inicio
+        Página de Inicio POS
         <small>Panel de control</small>
       </h1>
       <ol class="breadcrumb">
@@ -44,4 +44,4 @@
     <!-- /.content -->
   </div>
   <!-- /.content-wrapper -->
-</html>  
+</html>
